@@ -1,4 +1,4 @@
-![logo](https://github.com/dev007-sudo/dev007-sudo/blob/main/logo.png)
+![logo](https://github.com/dev007-sudo/dev007-sudo/blob/main/Github.png)
 <h1 align="center">Hi 👋, I'm Akash Shukla</h1>
 <h3 align="center">A passionate software Engineer from India</h3>
 
